@@ -3,7 +3,7 @@ package com.mcnz.exam;
 import java.util.Vector;
 
 public class MakeCameronExam {
-	
+	 
     public static Exam justDoIt() {
         Vector<Question> questions = new Vector<Question>();
         Exam exam = new Exam("Cameron Quiz", questions);

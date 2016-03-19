@@ -5,7 +5,7 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 
 public class Exam {
-
+ 
 	public static void main(String[] args) throws Exception {
 
 		Vector<Exam> exams = new Vector<Exam>();
