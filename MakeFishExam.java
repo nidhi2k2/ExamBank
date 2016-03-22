@@ -8,7 +8,7 @@ public class MakeFishExam {
     public static Exam justDoIt() {
         Vector<Question> questions = new Vector<Question>();
         Exam exam = new Exam("Fish Quiz", questions);
-        
+         
         {
             Question question = new Question();
             question.setQuery(("What do you call a fish without an eye?"));
